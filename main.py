@@ -1,3 +1,5 @@
+#### TO USE THIS MODEL, RUN THIS COMMAND IN TERMINAL 'pip install cv2 numpy tensorflow' ####
+
 import cv2
 import numpy as np 
 from tensorflow.keras.models import load_model
